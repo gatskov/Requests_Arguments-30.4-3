@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\Requests_Arguments.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\Requests_Arguments.dir/objects.a @CMakeFiles\Requests_Arguments.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Requests_Arguments.dir/objects.a -Wl,--no-whole-archive -o Requests_Arguments.exe -Wl,--out-implib,libRequests_Arguments.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Requests_Arguments.dir\linkLibs.rsp

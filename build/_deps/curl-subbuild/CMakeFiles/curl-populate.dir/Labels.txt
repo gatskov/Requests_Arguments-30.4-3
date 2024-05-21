@@ -1,0 +1,14 @@
+# Target labels
+ curl-populate
+# Source files and their labels
+D:/VSCode/Requests_ Arguments/build/_deps/curl-subbuild/CMakeFiles/curl-populate
+D:/VSCode/Requests_ Arguments/build/_deps/curl-subbuild/CMakeFiles/curl-populate.rule
+D:/VSCode/Requests_ Arguments/build/_deps/curl-subbuild/CMakeFiles/curl-populate-complete.rule
+D:/VSCode/Requests_ Arguments/build/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-build.rule
+D:/VSCode/Requests_ Arguments/build/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure.rule
+D:/VSCode/Requests_ Arguments/build/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-download.rule
+D:/VSCode/Requests_ Arguments/build/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-install.rule
+D:/VSCode/Requests_ Arguments/build/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir.rule
+D:/VSCode/Requests_ Arguments/build/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch.rule
+D:/VSCode/Requests_ Arguments/build/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-test.rule
+D:/VSCode/Requests_ Arguments/build/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-update.rule
